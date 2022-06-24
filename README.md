@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile,+User.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5400&color=00F71FD4&vCenter=true&lines=Welcome+to+my+profile.)](https://git.io/typing-svg)
 
 # ⛑ About me
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExtbhiteEAS&show_icons=true&theme=dark&hide_border=true)
 
 * Моё имя "Доминус", иначе никак. Я довольно адекватный человек и может понять ваше мнение,
 и я не говорю что едиственный лишь - я, а потому что мало кто вас может понять
@@ -18,8 +20,7 @@
   - [ ] Организовать клан по всем видам игр и прочее, оформить его стиль и т.д.
   - [X] Установить Linux и несколько раз переустанавливать Windows.
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ExtbhiteEAS)](https://github.com/ExtbhiteEAS/github-profile-trophy)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ExtbhiteEAS)](https://git.io/streak-stats)
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ExtbhiteEAS&theme=dark&hide_border=true&fire=DD9F45&sideLabels=03DD49&background=DD272700)
 
 # 💻 Programming
 
@@ -32,6 +33,7 @@
 * **P.S** Зелёный означает то, что я изучаю и получается неплохо. А если же красный - значит плохо и мне приходится смотреть туториалы, но если цвет - оранжевый, то это идёт всё по среднему.
 
 # 📁 Projects
+![trophy](https://github-profile-trophy.vercel.app/?username=ExtbhiteEAS&no-frame=true&no-bg=true&theme=discord)
 | Aliucord Themes | Python Scripts |
 |----------------|----------------|
 | [BlackEagle](https://github.com/ExtbhiteEAS/Black-Eagle) (Первая, созданная мною тема)| [Бесполезный код](https://github.com/ExtbhiteEAS/Most-Cool-Code)|
