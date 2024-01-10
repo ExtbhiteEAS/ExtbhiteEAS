@@ -5,4 +5,4 @@
 ICCrICAgIKsgICAgqQ== --->
 
 ![russia](https://raw.githubusercontent.com/ExtbhiteEAS/ExtbhiteEAS/main/2.png)
-- [Userscripts](https://github.com/NoExtbhite/.github/tree/main/userscripts)
+- [Коллекция userscript'ов](https://github.com/NoExtbhite/.github/tree/main/userscripts)
