@@ -4,4 +4,5 @@
 > Что? Здесь ничего нет.
 ICCrICAgIKsgICAgqQ== --->
 
-![russia](https://github.com/ExtbhiteEAS/ExtbhiteEAS/blob/main/kolovrat_white.png?raw=true)
+![russia](https://raw.githubusercontent.com/ExtbhiteEAS/ExtbhiteEAS/main/2.png)
+> Тут ничего нет...
