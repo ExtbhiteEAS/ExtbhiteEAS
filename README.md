@@ -1,5 +1,6 @@
 <div align="center">
   <div class="description">
-    <p>Кто знает, тот знает.</p>
+    <p>Иногда мы сидим в так называемом вакууме, из которого сами не можем выбраться.</p>
+    <p>https://extbhite.vercel.app/</p>
   </div>
 </div>
